@@ -1,0 +1,53 @@
+{"intents": [
+        {"tag": "question 1",
+         "patterns": ["top three highest rated shows of 2020", "show me the top three highest rated shows of 2020", "Show me the top 3 highest rated shows of 2020"],
+         "responses": [],
+         "context_set": ""
+        },
+        {"tag": "question 2",
+         "patterns": ["How many seasons did the top show of 2022 have?", "Show me the number of seasons the top show of 2022 had", "Show me the # of seasons the top show of 2022 had"],
+         "responses": [],
+         "context_set": ""
+        },
+        {"tag": "question 3",
+         "patterns": ["For 2018, what shows had an episode duration of 30 minutes or less?", "Show me the shows that had an episode duration of 30 minutes or less", "Show me the shows that had an episode duration of 30 mins or less", "Show me the shows that had an episode duration of thirty minutes or less", "Show me the shows that had an episode duration of thirty mins or less"],
+         "responses": [],
+         "context_set": ""
+        },
+        {"tag": "question 4",
+         "patterns": ["For the highest rated show in 2005, what was its genre?", "the genre of the highest rated show in 2005", "Show me the genre of the highest rated show in 2005"],
+         "responses": [],
+         "context_set": ""
+        },
+        {"tag": "question 5",
+         "patterns": ["the show with the highest rating of 2021 produced", "Show me where the highest rated show of 2021 was produced", "For 2021, where was the highest rated show produced?"],
+         "responses": [],
+         "context_set": ""
+        },
+        {"tag": "question 6",
+         "patterns": ["In 2008, what was the name of the highest rated show?"," What was the name of the highest rated show in 2008?","Show me the name of the highest rated show in 2008."],
+         "responses": [],
+         "context_set": ""
+        },
+        {"tag": "question 7",
+         "patterns": ["What are all the shows that are rated 9.0 and higher?","Show me the names of all the shows that are rated 9.0 and higher.","Show me the names of all the shows that have a rating of nine and higher."],
+         "responses": [],
+         "context_set": ""
+        },
+        {"tag": "question 8",
+         "patterns": ["What are all the shows made in Japan after 2000?", "What are all the names of the shows that were made in Japan after 2000?", "Show me the names of all the shows that were made in Japan after 2000." ],
+         "responses": [],
+         "context_set": ""
+        },
+        {"tag": "question 9",
+         "patterns": ["What are all the shows that start with the letter W?", "Show me the names of all the shows that have a title starting with the letter W.", "What shows have a title that start with W?"],
+         "responses": [],
+         "context_set": ""
+        },
+        {"tag": "question 10",
+         "patterns": ["What shows are 4 seasons long?", "Show me the names of the shows that are four seasons long.", "Show me the names of the shows that are 4 seasons long.","Show me the titles of the shows that are 4 seasons long."],
+         "responses": [],
+         "context_set": ""
+        }       
+   ]
+}
